@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Matthew 👋
 
-<!--
-**Matthew-Lam0704/Matthew-Lam0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student developer building accessibility-focused technology using computer vision and web apps.
 
-Here are some ideas to get you started:
+Currently working on **aEye**, a mobile-friendly assistive vision tool designed to help visually impaired users understand their surroundings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 What I’m working on
+- 👁️ **aEye** — real-time object & people detection using YOLO + Flask
+- 📱 Mobile-first, installable web apps (PWA)
+- ♿ Accessibility-first design
+
+---
+
+## 🧠 Tech I use
+- Python
+- Flask
+- OpenCV
+- YOLO
+- HTML / CSS / JavaScript
+- Git & GitHub
+
+---
+
+## 🎯 Goals
+- Build technology that helps people
+- Improve mobile accessibility
+- Learn ML deployment & real-world CV systems
+
+---
+
+## 📫 Contact
+- ✉️ [Email me][mailto:mattm3m3@gmail.com]
+- 🧳 [LinkedIn][https://www.linkedin.com/in/matthewlam0704/]
+- 📸 [Instagram][https://www.instagram.com/mattlam704/]
