@@ -1,4 +1,16 @@
 # Hi, I'm Matthew 👋
+---
+<p align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Matthew-Lam0704&label=Profile%20views&color=0A66C2&style=for-the-badge)
+![GitHub Stats](https://img.shields.io/badge/GitHub%20Stats-Active-0A66C2?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Matthew-Lam0704?label=followers&style=for-the-badge&color=0A66C2)
+![Stars](https://img.shields.io/github/stars/Matthew-Lam0704?label=stars&style=for-the-badge&color=0A66C2)
+
+</p>
+
+---
+## ❓ About me
 
 I’m a student developer building accessibility-focused technology using computer vision and web apps.
 
