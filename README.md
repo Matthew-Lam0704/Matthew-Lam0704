@@ -30,7 +30,8 @@ Currently working on **aEye**, a mobile-friendly assistive vision tool designed 
 
 ---
 
-## 📫 Contact
-- ✉️ [Email me][mailto:mattm3m3@gmail.com]
-- 🧳 [LinkedIn][https://www.linkedin.com/in/matthewlam0704/]
-- 📸 [Instagram][https://www.instagram.com/mattlam704/]
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-matthewlam0704-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matthewlam0704)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-@mattlam704-FF2D55?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mattlam704)
+[![Gmail](https://img.shields.io/badge/GMAIL-mattm3m3%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mattm3m3@gmail.com)
