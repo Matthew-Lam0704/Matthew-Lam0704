@@ -12,16 +12,15 @@
 ---
 ## ❓ About me
 
-I’m a student developer building accessibility-focused technology using computer vision and web apps.
+I’m a student developer building through vibe coding.
 
-Currently working on **aEye**, a mobile-friendly assistive vision tool designed to help visually impaired users understand their surroundings.
+Currently working on **AceStudy**, a study app catered to A-Level students.
 
 ---
 
 ## 🔭 What I’m working on
-- 👁️ **aEye** — real-time object & people detection using YOLO + Flask
-- 📱 Mobile-first, installable web apps (PWA)
-- ♿ Accessibility-first design
+- 👁️ **AceStudy** — Study app catered to A-Level students
+- 📱 Modern app design 
 
 ---
 
@@ -32,13 +31,14 @@ Currently working on **aEye**, a mobile-friendly assistive vision tool designed 
 - YOLO
 - HTML / CSS / JavaScript
 - Git & GitHub
+- Claude code
+- Gemini
 
 ---
 
 ## 🎯 Goals
-- Build technology that helps people
-- Improve mobile accessibility
-- Learn ML deployment & real-world CV systems
+- Get better at coding
+- Understand vibe coding more
 
 ---
 
