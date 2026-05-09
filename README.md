@@ -19,7 +19,7 @@ Currently working on **AceStudy**, a study app catered to A-Level students.
 ---
 
 ## 🔭 What I’m working on
-- 👁️ **AceStudy** — Study app catered to A-Level students
+- 👁️ **YapLearn** — Study app catered to A-Level students
 - 📱 Modern app design 
 
 ---
